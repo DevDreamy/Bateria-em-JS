@@ -52,11 +52,15 @@ kbd {
 
 @media (min-width: 320px) and (max-width: 480px) {
   
+
   .keys {
     flex-wrap: wrap;
+    align-content: center;
+    margin-top: 18%;
+    
   }
   .key {
-    margin: 0.1em;
+    margin: 2em 0.1em 2em 0.1em;
     padding: 0;
   }
   
