@@ -55,5 +55,8 @@ kbd {
   .keys {
     flex-wrap: wrap;
   }
+  .key {
+    margin: 0.4em;
+  }
   
 }
